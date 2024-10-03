@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Nederlands_verkeersbord_G8"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AJAX.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview15"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.2250293"
+     inkscape:cx="166.2901"
+     inkscape:cy="129.58232"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Nederlands_verkeersbord_G8" />
+  <circle
+     id="blauwe_cirkel"
+     cx="150"
+     cy="150"
+     r="150"
+     style="fill:#0e518d;stroke:none"
+     sodipodi:cx="150"
+     sodipodi:cy="150"
+     sodipodi:rx="150"
+     sodipodi:ry="150" />
+  <g
+     id="symbool_voetpad" />
+  <path
+     style="fill:#ffffff;stroke:none"
+     inkscape:connector-curvature="0"
+     id="zwarte_vrachtauto"
+     d="m 260,100.74072 -165.142462,0 -0.42794,54.89472 c 0,0 -1.67529,0.96557 -1.96046,-0.96557 -0.962363,-7.40274 -2.922828,-27.67983 -4.455577,-40.37537 l -32.579341,0 -14.614359,33.79515 3.350634,25.42682 -4.170495,0 0,8.11799 21.030437,0 c 0.249478,-20.81354 33.399161,-20.42016 33.826921,-0.42926 l 70.719332,-0.42924 c 2.49517,-18.84659 26.16326,-15.77105 37.03497,-15.77105 10.72903,0 30.90409,-3.36162 32.57939,16.05714 l 24.80879,0 0,-80.32149 z m -76.83552,97.77341 c 8.54724,0 15.52086,-6.97362 15.52086,-15.485 0,-8.54711 -6.97362,-15.37765 -15.52086,-15.37765 -8.36834,0 -15.34197,6.83054 -15.34197,15.37765 0,8.51138 6.97363,15.485 15.34197,15.485 z M 78.030561,198.8 c 8.501593,0 15.359987,-6.97363 15.359987,-15.48499 0,-8.54711 -6.858394,-15.37767 -15.359987,-15.37767 -8.501557,0 -15.502842,6.83056 -15.502842,15.37767 0,8.51136 7.001285,15.48499 15.502842,15.48499 z M 218.4173,198.51413 c 8.51142,0 15.48509,-6.97362 15.48509,-15.485 0,-8.54711 -6.97367,-15.37765 -15.48509,-15.37765 -8.54715,0 -15.37775,6.83054 -15.37775,15.37765 0,8.51138 6.8306,15.485 15.37775,15.485" />
+  <path
+     style="fill:#0e518d;stroke:none;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="wit_ruit_vrachtauto"
+     d="m 81.633342,122.94895 1.104998,22.49431 -31.474392,0 9.48154,-23.60296 20.602681,0" />
+  <path
+     style="fill:#c1121c;stroke:none"
+     inkscape:connector-curvature="0"
+     d="M 59.73225,259.40213 260.03821,59.107361 239.45104,38.51791 39.37243,238.58525 59.73225,259.40213"
+     id="path3865" />
+  <circle
+     style="fill:none;stroke:#f7fbf5;stroke-width:6.73600006"
+     sodipodi:ry="141.942"
+     sodipodi:rx="141.942"
+     sodipodi:cy="150"
+     sodipodi:cx="150"
+     r="141.942"
+     cy="150"
+     cx="150"
+     id="circle3867" />
+</svg>

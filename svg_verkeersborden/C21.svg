@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Nederlands_verkeersbord_C21"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   sodipodi:docname="C21.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6233333"
+     inkscape:cx="149.8094"
+     inkscape:cy="150"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Nederlands_verkeersbord_C21" />
+  <circle
+     id="witte_cirkel_met_rode_rand"
+     cx="150"
+     cy="150"
+     r="130.5"
+     fill="#f7fbf5"
+     stroke="#c1121c"
+     stroke-width="39" />
+  <path
+     fill="#2a2d2f"
+     d="M 231.35368,156.76915 L 239.78022,156.76915 L 239.78022,165.48805 L 231.35368,165.48805 L 231.35368,188.86055 C 231.92593,191.59589 231.64021,192.99612 236.69597,190.76552 C 237.3952,190.44802 238.34921,185.52278 239.20798,185.42509 L 240.35246,194.96622 C 238.66748,197.22124 238.95319,195.82101 236.98168,198.90641 L 233.03948,201.16957 C 225.43997,202.43955 222.32397,197.73412 222.32397,191.78313 L 222.32397,165.48805 L 216.09117,165.48805 L 216.09117,156.76915 L 222.32397,156.76915 L 222.32397,146.91867 L 231.35368,142.84823 L 231.35368,156.76915"
+     id="path2" />
+</svg>

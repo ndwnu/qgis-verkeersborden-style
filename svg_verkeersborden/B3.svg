@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="262.67014"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Verkeersbord_B3.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88004188"
+     inkscape:cx="19.340231"
+     inkscape:cy="206.77284"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-396.50002,-137.35557)">
+    <g
+       transform="matrix(1.0063863,0,0,-1.0063974,249.31602,669.4882)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.03819978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="g4155"><path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 295.25,528.75 -0.31,-0.05 -0.32,-0.05 -0.31,-0.07 -0.3,-0.07 -0.3,-0.09 -0.3,-0.09 -0.3,-0.1 -0.29,-0.11 -0.29,-0.12 -0.29,-0.12 -0.28,-0.13 -0.28,-0.14 -0.27,-0.14 -0.27,-0.16 -0.26,-0.15 -0.26,-0.17 -0.26,-0.17 -0.25,-0.17 -0.24,-0.18 -0.24,-0.19 -0.23,-0.19 -0.23,-0.19 -0.22,-0.2 -0.21,-0.21 -0.21,-0.2 -0.21,-0.21 -0.19,-0.22 -0.19,-0.22 -0.18,-0.22 -0.18,-0.22 -0.17,-0.22 -0.16,-0.23 -140,-242 c -0.43,-1.72 -0.79,-3.05 -1,-5 0.21,-4.67 4.5,-9.05 10,-9 l 279,0 c 3.40208,0 8.26842,2.98379 9,8.06846 0.28,1.95 -0.05,4.45154 -1,5.93154 l -140,242 c -0.88,2.2 -3.79,4.55 -8,5 z"
+         style="fill:#e3001b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4157" /><polygon
+         points="201.25,303.75 389.25,303.75 389.25,303.75 295.25,465.75 "
+         style="fill:#ffffff;fill-rule:nonzero;stroke:#ffffff;stroke-width:0"
+         id="polygon4159" /><path
+         sodipodi:nodetypes="cccccccscccc"
+         inkscape:connector-curvature="0"
+         d="m 295.29164,520.95905 -1.31992,-0.9307 c -1.4981,-1.86267 -4.9732,-7.76696 -6.15183,-9.87687 l -129.25,-222.60965 c -1.33799,-1.77574 -3.90038,-5.89203 -3.90606,-6.28035 -1.97044,-3.08705 -1.64325,-6.67305 1.83485,-6.64145 l 267.95693,0 c 1.93045,-0.0186 6.48674,0.11228 9.10346,0.11228 3.34885,0 4.5518,2.76336 3.31949,4.69699 -0.70534,0.91533 -4.16022,6.74651 -5.03724,8.11253 l -129.25,222.60965 c -1.85306,2.7915 -5.99434,11.84206 -7.29968,10.80757 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#ffffff;stroke-width:6.38774252;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-opacity:1"
+         id="path4163" /><polygon
+         points="295.25,436.75 295.25,436.75 280.25,411.75 280.25,379.75 250.25,379.75 250.25,367.75 280.25,367.75 280.25,308.75 295.25,323.75 311.25,308.75 311.25,367.75 340.25,367.75 340.25,379.75 311.25,379.75 311.25,411.75 "
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-rule:nonzero;stroke:none"
+         id="polygon4081"
+         transform="matrix(1.0000006,0,0,1.0000055,-1.7715e-4,-0.00148905)" /></g>  </g>
+</svg>

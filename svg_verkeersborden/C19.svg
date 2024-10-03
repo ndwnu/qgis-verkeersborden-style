@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Nederlands_verkeersbord_C1"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   sodipodi:docname="C19.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6233333"
+     inkscape:cx="149.8094"
+     inkscape:cy="150"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Nederlands_verkeersbord_C1" />
+  <circle
+     id="witte_cirkel_met_rode_rand"
+     cx="150"
+     cy="150"
+     r="130.5"
+     fill="#f7fbf5"
+     stroke="#c1121c"
+     stroke-width="39" />
+  <path
+     fill="#2a2d2f"
+     d="M 206.75797,172.1124 L 206.34955,172.1124 C 208.07308,167.90557 211.48746,166.8845 214.38724,166.72112 C 218.28355,166.53325 222.26972,169.4331 222.65363,172.36563 C 222.20437,169.04917 228.6819,166.72112 232.03093,166.72112 C 235.57601,166.72112 241.73496,169.33508 241.73496,177.1851 L 241.73496,200.76785 L 235.0614,200.76785 L 235.0614,180.9835 C 234.71016,177.79775 235.69853,173.19882 229.51507,173.19882 C 227.84872,173.19882 225.55341,174.28525 225.23484,176.39275 C 224.7284,179.51315 224.66305,182.77242 224.66305,183.57295 L 224.66305,200.76785 L 218.34073,200.76785 L 218.34073,180.9835 C 218.34073,175.17562 215.7922,173.41938 212.82708,173.41938 C 210.14785,173.41938 208.16293,175.02042 207.10921,177.85493 C 206.47208,179.5785 206.88867,182.77242 206.88867,183.57295 L 206.88867,200.76785 L 200.89308,200.76785 L 200.89308,167.70952 L 206.75797,167.70952 L 206.75797,172.1124"
+     id="path1" />
+  <path
+     fill="#2a2d2f"
+     d="M 150.44518,72.43098 L 128.46407,46.42215 C 141.79486,43.97157 162.82844,43.97157 171.18469,46.42215 L 150.44518,72.43098"
+     id="path4" />
+  <path
+     fill="#2a2d2f"
+     d="M 150.66572,228.55743 L 172.65499,254.56625 C 159.34871,257.05767 138.29063,257.05767 129.92621,254.56625 L 150.66572,228.55743"
+     id="path5" />
+</svg>

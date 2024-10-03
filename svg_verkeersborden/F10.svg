@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Nederlands_verkeersbord_F10" width="300" height="300" viewBox="0 0 300 300"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<circle id="witte_cirkel_met_rode_rand" cx="150" cy="150" r="130.5"
+fill="#f7fbf5" stroke="#c1121c" stroke-width="39" />
+
+<path id="zwarte_streep" fill="#2a2d2f"
+     d="M 220.22763,165.47133 C 229.3272,165.47133 236.6624,158.55252 236.6624,150 C 236.6624,141.48015 229.3272,134.5205 220.22763,134.5205 L 79.7397,134.5205 C 70.68097,134.5205 63.30493,141.48015 63.30493,150 C 63.30493,158.55252 70.68097,165.47133 79.7397,165.47133 L 220.22763,165.47133" />
+
+</svg>

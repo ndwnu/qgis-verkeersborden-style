@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Nederlands_verkeersbord_L20" width="600" height="600" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<path id="vlak_blauw" fill="#0e518d" d="M0,30 a30,30 0 0,1 30,-30 h540 a30,30 0 0,1 30,30 v540 a30,30 0 0,1 -30,30 h-540 a30,30 0 0,1 -30,-30 z"/>
+	<path id="linker_pijlstaart" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:40px" d="M 244,64 V 304"/>
+	<path id="linker_pijlpunt" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:16px;stroke-linejoin:round" d="m 172,284 72,104 72,-104 -72,16 z"/>
+	<path id="rechter_pijlstaart" style="fill:#f7fbf5;stroke-width:2" d="m 362,152 v 40 c 16.56854,0 30,13.43146 30,30 v 137.60156 0.2422 h -0.012 c -0.0996,12.38186 -7.69276,22.95744 -18.45312,27.4492 l -107.65626,44.58986 0.004,0.0704 -0.0274,-0.0624 C 241.21098,442.72552 224,467.35222 224,496 v 40 h 40 v -40 c 0,-12.3363 7.45084,-22.92622 18.09376,-27.53516 l 106.84764,-44.2578 0.008,0.016 C 413.53388,413.95872 431.01064,390.0753 431.95704,362 H 432 V 359.60156 222 c 0,-38.65993 -31.34006,-70 -70,-70 z"/>
+	<path id="rechter_pijlpunt" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:16px;stroke-linejoin:round" d="m 419.63692,114.96085 -123.63736,26.7206 68.53064,106.31979 12.7712,-72.64321 z"/>
+	<path id="bies_wit" style="fill:none;stroke-width:15;stroke:#f7fbf5" d="M21.5,44 a22.5,22.5 0 0,1 22.5,-22.5 h512 a22.5,22.5 0 0,1 22.5,22.5 v512 a22.5,22.5 0 0,1 -22.5,22.5 h-512 a22.5,22.5 0 0,1 -22.5,-22.5 z"/>
+</svg>
