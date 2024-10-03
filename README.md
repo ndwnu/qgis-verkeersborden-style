@@ -15,7 +15,7 @@ Wilt u een specifieke gemeente downloaden? Gebruik dan een URL zoals:
 Zie ook [interface documentatie van de API](https://docs.ndw.nu/data-uitwisseling/interface-beschrijvingen/verkeersborden-api/)
 
 ## 2. Download de opmaakstijl
-Sla het volgende bestand lokaal op: [verkeersborden_visualisatie_url.qml](verkeersborden_visualisatie_url.qml).
+Sla het volgende bestand lokaal op: [verkeersborden_visualisatie_url.qml](https://raw.githubusercontent.com/ndwnu/qgis-verkeersborden-style/refs/heads/main/verkeersborden_visualisatie_url.qml).
 
 ## 3. Maak de kaart
 1. Open QGIS.

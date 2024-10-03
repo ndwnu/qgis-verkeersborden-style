@@ -287,7 +287,7 @@
                   <Option type="Map" name="properties">
                     <Option type="Map" name="name">
                       <Option type="bool" value="true" name="active"/>
-                      <Option type="QString" value="'https://github.com/ndwnu/qgis-verkeersborden-style/' || &quot;rvvCode&quot; || '.svg'" name="expression"/>
+                      <Option type="QString" value="'https://raw.githubusercontent.com/ndwnu/qgis-verkeersborden-style/refs/heads/main/svg_verkeersborden/' || &quot;rvvCode&quot; || '.svg'" name="expression"/>
                       <Option type="int" value="3" name="type"/>
                     </Option>
                   </Option>
