@@ -36,7 +36,7 @@ NB Verkeersborden die op hetzelfde locatie liggen of zeer vlak bij elkaar worden
 
 ![Voorbeeld van verkeersborden visualisatie in QGIS](voorbeeld_Arnhem.jpg)
 
-De plaatjes van de verkeersborden worden telkens gedownload van de NDW server. U kunt de icoontjes ook als [ZIP-file](https://github.com/ndwnu/qgis-verkeersborden-style/verkeersborden_svg.zip) downloaden naar uw computer.
+De plaatjes van de verkeersborden worden telkens gedownload van GitHub. U kunt deze repository ook als [ZIP-file](https://github.com/ndwnu/qgis-verkeersborden-style/archive/refs/heads/main.zip) downloaden naar uw computer met daarin alle svgs.
 Onder symbologie onder 'SVG Marker' helemaal onderaan bij de witte balk moet u dan de verwijzing naar de NDW server vervangen naar een lokale map.
 
 ## 5. Dankwoord en doorontwikkeling
